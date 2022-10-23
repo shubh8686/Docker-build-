@@ -1,4 +1,4 @@
-FROM ubuntu:18.04
+FROM ubuntu
 RUN echo "hello"> /tmp/index.html
 
 
